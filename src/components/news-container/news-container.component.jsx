@@ -1,5 +1,4 @@
 import NewsCard from '../news-card/news-card.component';
-
 import './news-container.styles.scss';
 
 const NewsContainer = ({ newsData }) => {

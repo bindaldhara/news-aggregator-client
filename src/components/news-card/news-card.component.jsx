@@ -13,3 +13,5 @@ const NewsCard = ({ data }) => {
 };
 
 export default NewsCard;
+
+
